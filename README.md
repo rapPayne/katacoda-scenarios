@@ -1,3 +1,7 @@
+# Do NOT USE - Use the ORA ones instead; 
+- https://resources.oreilly.com/katacoda/rap-payne
+- https://katacoda.com/orm-rap-payne
+- 
 # Interactive Katacoda Scenarios
 
 [![](http://shields.katacoda.com/katacoda/rappayne/count.svg)](https://www.katacoda.com/rappayne "Get your profile on Katacoda.com")
